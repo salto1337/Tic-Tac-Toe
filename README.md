@@ -1,8 +1,39 @@
-# React + Vite
+TIC TAC TOE
+========================================================================================================================================
+Tic Tac Toe, also known as Noughts and Crosses, is a classic two-player game. The objective of the game is to be the first player to get three of their marks (either "X" or "O") in a row, column, or diagonal on a 3x3 grid. This implementation of Tic Tac Toe allows two players to compete against each other on the same device.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tech Stack
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+React
+
+
+Tailwindcss
+
+
+
+
+
+
+## Screenshots of the project:
+
+![App Screenshot](https://i.imgur.com/mfc0EOz.png)
+
+--
+
+
+
+
+
+
+
+
+## Installation
+
+ 1 Download the files: Clone or download the repository to your local machine.
+
+2 Open the project in Visual Studio Code: Launch Visual Studio Code and open the project directory.
+
+3
+Install dependencies: Open the terminal in Visual Studio Code and run the command npm install to install the required dependencies.
